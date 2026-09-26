@@ -1,0 +1,10 @@
+.pixi/
+dist/
+build/*.o
+__pycache__/
+*.so
+*.pyc
+.pytest_cache/
+.venv/
+.refdeps/
+bench/_bench.capnp
